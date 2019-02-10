@@ -16,5 +16,8 @@ public class Credit extends payment{
     String name, type;
     Date expDate;
     
-   
+    public void authorized()
+    {
+     System.out.println("Method for authorization");
+    }
 }
