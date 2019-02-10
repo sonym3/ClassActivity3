@@ -7,11 +7,10 @@ package classactivity4;
 
 /**
  *
- * @author 1894434
+ * @author 1894420
  */
-public class payment extends Order {
+public class Cash extends payment{
     
-    double amount;
-    
+    Float cashTendered;
     
 }
