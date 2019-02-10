@@ -9,7 +9,7 @@ package classactivity4;
  *
  * @author 1895268
  */
-public class ClassActivity4 {
+public class ClassActivity3 {
 
     /**
      * @param args the command line arguments
