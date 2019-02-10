@@ -9,7 +9,7 @@ package classactivity4;
  *
  * @author 1894434
  */
-public class payment extends Order {
+public class payment{
     
     double amount;
     Order o=new Order();
