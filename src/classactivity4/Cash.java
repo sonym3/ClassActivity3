@@ -9,8 +9,8 @@ package classactivity4;
  *
  * @author 1894420
  */
-public class Cash extends Payment{
+public class Cash extends payment{
     
-    flote cashTendered;
+    Float cashTendered;
     
 }
