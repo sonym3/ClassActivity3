@@ -12,7 +12,8 @@ package classactivity4;
 public class OrderDetails {
     int quantiy;
     String taxStatus;
-    
+    Order o=new Order();
+    item i=new item();
     public void calcSubTotal(){
         System.out.println("This is a calcSubtotal function");
     }
