@@ -7,15 +7,14 @@ package classactivity4;
 
 /**
  *
- * @author 1895268
+ * @author 1894434
  */
-public class ClassActivity3 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class check extends payment{
     
+    String name,bankID;
+    
+    public void authorized()
+    {
+     System.out.println("Method for authorization");
+    }
 }
