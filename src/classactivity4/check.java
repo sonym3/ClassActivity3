@@ -9,9 +9,12 @@ package classactivity4;
  *
  * @author 1894434
  */
-public class payment extends Order {
+public class check extends payment{
     
-    double amount;
+    String name,bankID;
     
-    
+    public void authorized()
+    {
+     System.out.println("Method for authorization");
+    }
 }
