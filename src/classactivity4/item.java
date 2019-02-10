@@ -11,7 +11,7 @@ package classactivity4;
  * @author 1894461
  */
 public class item {
-     Double shoppingWeight;
+     Double shippingWeight;
     String description ;
     
     public void getPriceForQuantity(){
