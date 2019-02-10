@@ -12,5 +12,5 @@ package classactivity4;
 public class Cash extends payment{
     
     Float cashTendered;
-    
+    payment p=new payment();
 }

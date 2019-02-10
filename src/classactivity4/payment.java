@@ -12,6 +12,6 @@ package classactivity4;
 public class payment extends Order {
     
     double amount;
-    
+    Order o=new Order();
     
 }

@@ -15,6 +15,7 @@ public class Credit extends payment{
     
     String name, type;
     Date expDate;
+    payment p=new payment();
     
     public void authorized()
     {

@@ -12,6 +12,7 @@ package classactivity4;
 public class check extends payment{
     
     String name,bankID;
+    payment p=new payment();
     
     public void authorized()
     {
